@@ -1,0 +1,22 @@
+{
+  "name": "shelbycollopy.com",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start",
+    "static": "npm run build && npm run export",
+    "static:prod": "NODE_ENV=production npm run build && npm run export",
+    "postbuild": "next-on-netlify"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.1.4",
+    "@emotion/styled": "^11.1.5",
+    "contentful": "^7.9.1",
+    "next": "^10.0.5",
+    "next-on-netlify": "^2.8.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-markdown": "^5.0.3"
+  }
+}

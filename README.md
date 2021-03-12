@@ -1,14 +1,17 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c0654649-f7ca-4c1a-a250-c82fc6932717/deploy-status)](https://app.netlify.com/sites/focused-euclid-35abd2/deploys)
+
+
 This is my personal portfolio website. It is a continuous work in progress and subject to change, be revised, updated, edited or reorganized. It's used to showcase past work and experiment with new technologies, frameworks, etc.
 
-Currently using:
+### Currently using:
 - React (v17)
 - Next.js (v10)
 - Contentful
 - Netlify
 - @Emotion (v11)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c0654649-f7ca-4c1a-a250-c82fc6932717/deploy-status)](https://app.netlify.com/sites/focused-euclid-35abd2/deploys)
-
+### TODO's:
+Setup some basic tests!
 
 ## Available Scripts
 

@@ -3,7 +3,7 @@ import NextHead from "next/head";
 import { string } from "prop-types";
 
 const defaultDescription =
-  "Shelby Collopy - Software developing web engineer with over 15 years of professional experience";
+  "Shelby Collopy - Software developing web engineer with many years of professional experience";
 const defaultOGURL = "https://www.shelbycollopy.com";
 const defaultOGImage = "https://www.shelbycollopy.com/share.jpg";
 

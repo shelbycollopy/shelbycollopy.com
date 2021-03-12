@@ -57,7 +57,7 @@ const SvgIcon = styled.object`
 export default function Home(props) {
   return (
     <>
-      <Head title="Shelby Collopy - Software Engineer, Front-End, Web Developer, JavaScript, React, NextJS, AWS" />
+      <Head title="Shelby Collopy - Software Engineer, Next.js, Front-End, Web Developer" />
       <Nav />
 
       <Hero>

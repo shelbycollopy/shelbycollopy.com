@@ -12,7 +12,7 @@ const links = [
   },
   { href: "https://linkedin.com/in/shelbycollopy", label: "LinkedIn" },
   { href: "https://github.com/shelbycollopy", label: "Github" },
-  { href: "mailto:shelby.collopy@gmail.com", label: "Contact" },
+  { href: "mailto:shelbycollopy@gmail.com", label: "Contact" },
 ].map((link) => {
   link.key = `nav-link-${link.href}-${link.label}`;
   return link;

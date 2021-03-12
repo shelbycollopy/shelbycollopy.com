@@ -7,7 +7,7 @@ const links = [
   { href: "/portfolio", label: "Portfolio" },
   {
     href:
-      "https://www.dropbox.com/s/489bwk60sily689/ShelbyCollopy_Resume_2020.pdf",
+      "https://www.dropbox.com/s/jb10a5n7ls1n5gs/ShelbyCollopy_Resume_2021.pdf?dl=0",
     label: "Resume",
   },
   { href: "https://linkedin.com/in/shelbycollopy", label: "LinkedIn" },

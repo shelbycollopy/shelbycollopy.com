@@ -69,7 +69,7 @@ export default function Home(props) {
         )}
 
         <Row>
-          <StyledLink href="https://www.dropbox.com/s/489bwk60sily689/ShelbyCollopy_Resume_2020.pdf?dl=0">
+          <StyledLink href="https://www.dropbox.com/s/jb10a5n7ls1n5gs/ShelbyCollopy_Resume_2021.pdf?dl=0">
             View Resume
           </StyledLink>
         </Row>

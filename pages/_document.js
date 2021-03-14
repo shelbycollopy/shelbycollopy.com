@@ -15,13 +15,13 @@ class MyDocument extends Document {
               __html: `window.dataLayer = window.dataLayer || [];
                     function gtag(){dataLayer.push(arguments); }
                     gtag('js', new Date());
-                    gtag('config', '${process.env.GOOGLE_ANALYTICS_TAG}');`,
+                    gtag('config', 'UA-722473-1');`,
             }}
           ></script>
 
           <script
             async
-            src="https://www.googletagmanager.com/gtag/js?id=" + `${process.env.GOOGLE_ANALYTICS_TAG}`></script>
+            src="https://www.googletagmanager.com/gtag/js?id=UA-722473-1"></script>
           <link rel="preconnect" href="https://fonts.gstatic.com" />
           <link
             href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap"

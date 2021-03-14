@@ -21,8 +21,7 @@ class MyDocument extends Document {
 
           <script
             async
-            src=`https://www.googletagmanager.com/gtag/js?id=${process.env.GOOGLE_ANALYTICS_TAG}`
-          ></script>
+            src="https://www.googletagmanager.com/gtag/js?id=" + `${process.env.GOOGLE_ANALYTICS_TAG}`></script>
           <link rel="preconnect" href="https://fonts.gstatic.com" />
           <link
             href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap"

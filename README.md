@@ -13,6 +13,10 @@ This is my personal portfolio website. It is a continuous work in progress and s
 ### TODO's:
 Setup some basic tests!
 
+## Env Variables
+
+This site requires a contentful API key and access token, along with the page IDs to access content. 
+
 ## Available Scripts
 
 In the project directory, you can run:

@@ -12,6 +12,7 @@
   "dependencies": {
     "@emotion/react": "^11.1.4",
     "@emotion/styled": "^11.1.5",
+    "@netlify/plugin-nextjs": "^3.4.2",
     "contentful": "^7.9.1",
     "next": "^11.0.0",
     "next-on-netlify": "^2.8.7",

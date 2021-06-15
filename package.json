@@ -6,8 +6,7 @@
     "export": "next export",
     "start": "next start",
     "static": "npm run build && npm run export",
-    "static:prod": "NODE_ENV=production npm run build && npm run export",
-    "postbuild": "next-on-netlify"
+    "static:prod": "NODE_ENV=production npm run build && npm run export"
   },
   "dependencies": {
     "@emotion/react": "^11.1.4",
